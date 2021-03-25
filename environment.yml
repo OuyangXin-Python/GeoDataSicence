@@ -1,0 +1,15 @@
+dependencies:
+  - python=3
+  - pip:
+    - numpy
+    - pandas
+    - matplotlib
+    - scipy
+    - scikit-learn
+    - gdal
+    - pyproj
+    - fiona
+    - shapely
+    - geopandas
+    - geoplot
+    - palettable
